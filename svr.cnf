@@ -1,0 +1,6 @@
+[server]
+master="119.23.221.186"
+worker_thread=8
+client_thread=4
+server_thread=4
+logpath = "."
